@@ -6,16 +6,29 @@ Our task is to develop a predictive model using machine learning algorithms for 
 
 Key polnts: 
 1.Understanding the Problem Statement 
-2.Importing the necessary lbraries and dataget 
+
+2.Importing the necessary libraries and dataset 
+
 3.Data Preprocessing 
+
 4.Data Visualization 
+
 5.Exploratory Data Analysis 
-6.Feature Selection 
+
+6.Feature Selection
+
 7.Making Dataeet for Training 
-8.Modeling 
+
+8.Modeling
+
 9.Linear Regression 
+
 10.Decision Tree Regression 
-11.Random Forest Regression 
+
+11.Random Forest Regression
+
 12.XGBoost Regressior 
-13.Hyperparameter Tuning of Models 
+
+13.Hyperparameter Tuning of Models
+
 14.Results Analysis
